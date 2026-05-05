@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use these mathematical formulas or results in your research, please cite them as follows."
+authors:
+  - family-names: "Drogidis"
+    given-names: "Christos"
+title: "Drogidi Parallel Curved Spaces Theorem"
+version: "0.0.1-alpha"
+date-released: 2026-04-20
+url: "https://github.com/ascoos/drogidi-theory"
+keywords:
+  - "Drogidi Parallel Curved Spaces"
+  - "Field Equations"
+  - "Synergy Tensor"
+  - "Dark Matter Geometry"
+  - "Multi-manifold Cosmology"
+  - "General Relativity Extension"
+  - "Theoretical Physics"
+  - "Manifold Interaction"
+  - "Local Big Bangs"
+  - "Geometric Inequalities"
+  - "Black Hole Activation"
+  - "Manifold Coupling"
+  - "Non-singular Multi-genesis"
+abstract: >-
+  The Drogidi theorem describes the geometry of parallel curved spaces and 
+  proposes that Dark Matter is not a particle but a geometric influence 
+  emerging from the interaction between parallel manifolds via the Synergy Tensor.
