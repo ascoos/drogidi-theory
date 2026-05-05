@@ -57,7 +57,7 @@ J^{(ab)}_{\mu\nu}
 
 Where:
 - $(R^{(a)})$, $(R^{(b)})$ are scalar curvatures,
-- $(R^{(a)}_{\mu\nu})$, $(R^{(b)}_{\mu\nu})$ are Ricci tensors,
+- $(R^{(a)}_{\mu\nu}), (R^{(b)}_{\mu\nu})$ are Ricci tensors,
 - $(\theta_a)$, $(\theta_b)$ are expansion scalars,
 - $(\Phi_{ab}^*)$ denotes the pullback via the mapping field.
 
